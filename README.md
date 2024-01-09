@@ -5,7 +5,7 @@
 1. Cloud Native Monitoring application
    Tools: Python, Kubernetes, Docker, Amazon ECR, Python+boto3
 
-2. Deploy Netflix Clone on Kubernetes using Jenkins
+3. Deploy Netflix Clone on Kubernetes using Jenkins
    Tools: EC2, Jenkins, ArgoCD and Helm, Prometheus and Grafana (Monitoring), SonarQube and Trivy(Security), Docker, Kubernetes
 
 - 🌱 I’m currently learning
