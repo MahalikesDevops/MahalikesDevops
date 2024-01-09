@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋.My name is Mahalakshmi Selvarajan. I am an aspiring cloud Devops engineer in Canada.
 
 <!--
 **MahalikesDevops/MahalikesDevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 My projects ...
+MyProjects
+1. Cloud Native Monitoring application
+Tools: Python, Kubernetes, Docker, Amazon ECR, Python+boto3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. Deploy Netflix Clone on Kubernetes using Jenkins
+Tools: EC2, Jenkins, ArgoCD and Helm, Prometheus and Grafana (Monitoring), SonarQube and Trivy(Security), Docker, Kubernetes
+
+- 🌱 I’m currently learning 
+AWS, Terraform, kubernetes, Docker and other DevOps tools
+
+- 📫 How to reach me: maha98in@gmail.com
+- ⚡ Fun fact: i am really good at drawing and painting
