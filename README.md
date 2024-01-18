@@ -9,7 +9,7 @@ My name is Mahalakshmi Selvarajan. I am an aspiring cloud Devops engineer in Can
 
 4. Deploy Netflix Clone on Kubernetes using Jenkins (DevSecOps Project)
 
-   Tools: EC2, Jenkins, ArgoCD and Helm, Prometheus and Grafana (Monitoring), SonarQube and Trivy(Security), Docker, Kubernetes
+   Tools: EC2, Jenkins, ArgoCD and Helm, Prometheus and Grafana (Monitoring), SonarQube and Trivy(Security), OWASP Security, Docker, Kubernetes (EKS), Node exporter
 
 - 🌱 I’m currently learning
   AWS, Terraform, kubernetes, Docker and other DevOps tools
